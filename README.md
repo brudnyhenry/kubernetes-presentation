@@ -1,2 +1,3 @@
-# kubernetes-presentation
-My presentation from https://slides.com/adamadam-2/deck
+https://brudnyhenry.github.io/kubernetes-presentation/
+
+Presentation about Rancher and Kubernetes
